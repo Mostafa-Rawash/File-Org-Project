@@ -1,0 +1,4 @@
+The player name is:beboo
+Player positon: dsasd
+Player team: dsadsa
+His nationality: dsadsad

@@ -1,0 +1,8 @@
+The player name is:ahmed
+Player positon: mohamed
+Player team: we
+His nationality: etisalat
+The player name is: mobinil
+Player positon: vodafone
+Player team: Te Data
+His nationality: 456

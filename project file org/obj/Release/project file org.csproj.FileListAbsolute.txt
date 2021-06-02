@@ -1,0 +1,45 @@
+C:\Users\icall\Desktop\project file org\project file org\bin\Release\project file org.exe.config
+C:\Users\icall\Desktop\project file org\project file org\bin\Release\project file org.exe
+C:\Users\icall\Desktop\project file org\project file org\bin\Release\project file org.pdb
+C:\Users\icall\Desktop\project file org\project file org\bin\Release\mscorlib.dll
+C:\Users\icall\Desktop\project file org\project file org\bin\Release\normidna.nlp
+C:\Users\icall\Desktop\project file org\project file org\bin\Release\normnfc.nlp
+C:\Users\icall\Desktop\project file org\project file org\bin\Release\normnfd.nlp
+C:\Users\icall\Desktop\project file org\project file org\bin\Release\normnfkc.nlp
+C:\Users\icall\Desktop\project file org\project file org\bin\Release\normnfkd.nlp
+C:\Users\icall\Desktop\project file org\project file org\obj\Release\project_file_org.Form1.resources
+C:\Users\icall\Desktop\project file org\project file org\obj\Release\project_file_org.Properties.Resources.resources
+C:\Users\icall\Desktop\project file org\project file org\obj\Release\project file org.csproj.GenerateResource.Cache
+C:\Users\icall\Desktop\project file org\project file org\obj\Release\project file org.exe
+C:\Users\icall\Desktop\project file org\project file org\obj\Release\project file org.pdb
+C:\Users\icall\Documents\project file org2\project file org\bin\Release\project file org.exe.config
+C:\Users\icall\Documents\project file org2\project file org\obj\Release\project file org.exe
+C:\Users\icall\Documents\project file org2\project file org\obj\Release\project file org.pdb
+C:\Users\icall\Documents\project file org2\project file org\bin\Release\project file org.exe
+C:\Users\icall\Documents\project file org2\project file org\bin\Release\project file org.pdb
+C:\Users\icall\Documents\project file org2\project file org\bin\Release\mscorlib.dll
+C:\Users\icall\Documents\project file org2\project file org\bin\Release\normidna.nlp
+C:\Users\icall\Documents\project file org2\project file org\bin\Release\normnfc.nlp
+C:\Users\icall\Documents\project file org2\project file org\bin\Release\normnfd.nlp
+C:\Users\icall\Documents\project file org2\project file org\bin\Release\normnfkc.nlp
+C:\Users\icall\Documents\project file org2\project file org\bin\Release\normnfkd.nlp
+C:\Users\icall\Documents\project file org2\project file org\obj\Release\project file org.csprojResolveAssemblyReference.cache
+C:\Users\icall\Documents\project file org2\project file org\obj\Release\project_file_org.Form1.resources
+C:\Users\icall\Documents\project file org2\project file org\obj\Release\project_file_org.Properties.Resources.resources
+C:\Users\icall\Documents\project file org2\project file org\obj\Release\project file org.csproj.GenerateResource.Cache
+C:\Users\icall\Desktop\project file org2\project file org\bin\Release\project file org.exe.config
+C:\Users\icall\Desktop\project file org2\project file org\obj\Release\project file org.exe
+C:\Users\icall\Desktop\project file org2\project file org\obj\Release\project file org.pdb
+C:\Users\icall\Desktop\project file org2\project file org\bin\Release\project file org.exe
+C:\Users\icall\Desktop\project file org2\project file org\bin\Release\project file org.pdb
+C:\Users\icall\Desktop\project file org2\project file org\bin\Release\mscorlib.dll
+C:\Users\icall\Desktop\project file org2\project file org\bin\Release\normidna.nlp
+C:\Users\icall\Desktop\project file org2\project file org\bin\Release\normnfc.nlp
+C:\Users\icall\Desktop\project file org2\project file org\bin\Release\normnfd.nlp
+C:\Users\icall\Desktop\project file org2\project file org\bin\Release\normnfkc.nlp
+C:\Users\icall\Desktop\project file org2\project file org\bin\Release\normnfkd.nlp
+C:\Users\icall\Desktop\project file org2\project file org\obj\Release\project file org.csprojResolveAssemblyReference.cache
+C:\Users\icall\Desktop\project file org2\project file org\obj\Release\project_file_org.Form1.resources
+C:\Users\icall\Desktop\project file org2\project file org\obj\Release\project_file_org.Form2.resources
+C:\Users\icall\Desktop\project file org2\project file org\obj\Release\project_file_org.Properties.Resources.resources
+C:\Users\icall\Desktop\project file org2\project file org\obj\Release\project file org.csproj.GenerateResource.Cache

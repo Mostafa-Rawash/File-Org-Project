@@ -1,0 +1,4 @@
+The player name is:adsa
+Player positon: asdsa
+Player team: dsad
+His nationality: adasd

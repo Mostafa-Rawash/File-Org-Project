@@ -1,0 +1,4 @@
+The player name is:12e
+Player positon: dasdasd
+Player team: asd
+His nationality: dadasd

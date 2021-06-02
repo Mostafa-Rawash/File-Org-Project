@@ -1,0 +1,4 @@
+The player name is:ahmed
+Player positon: mohamed
+Player team: hema
+His nationality: esma3il

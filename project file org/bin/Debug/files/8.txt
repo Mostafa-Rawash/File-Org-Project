@@ -1,0 +1,4 @@
+The player name is:ahmed
+Player positon: diasubydb
+Player team: dasdasd
+His nationality: dsadasd

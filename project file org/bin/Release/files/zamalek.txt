@@ -1,0 +1,4 @@
+The player name is:Afsha
+Player positon: player
+Player team: Ahly
+His nationality: Egyptain

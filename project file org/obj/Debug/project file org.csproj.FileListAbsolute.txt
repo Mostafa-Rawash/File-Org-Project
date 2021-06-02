@@ -1,0 +1,31 @@
+C:\Users\icall\Desktop\project file org\project file org\bin\Debug\project file org.exe.config
+C:\Users\icall\Desktop\project file org\project file org\obj\Debug\project file org.csprojResolveAssemblyReference.cache
+C:\Users\icall\Desktop\project file org\project file org\obj\Debug\project_file_org.Form1.resources
+C:\Users\icall\Desktop\project file org\project file org\obj\Debug\project_file_org.Properties.Resources.resources
+C:\Users\icall\Desktop\project file org\project file org\obj\Debug\project file org.csproj.GenerateResource.Cache
+C:\Users\icall\Desktop\project file org\project file org\bin\Debug\project file org.exe
+C:\Users\icall\Desktop\project file org\project file org\bin\Debug\project file org.pdb
+C:\Users\icall\Desktop\project file org\project file org\bin\Debug\mscorlib.dll
+C:\Users\icall\Desktop\project file org\project file org\bin\Debug\normidna.nlp
+C:\Users\icall\Desktop\project file org\project file org\bin\Debug\normnfc.nlp
+C:\Users\icall\Desktop\project file org\project file org\bin\Debug\normnfd.nlp
+C:\Users\icall\Desktop\project file org\project file org\bin\Debug\normnfkc.nlp
+C:\Users\icall\Desktop\project file org\project file org\bin\Debug\normnfkd.nlp
+C:\Users\icall\Desktop\project file org\project file org\obj\Debug\project file org.exe
+C:\Users\icall\Desktop\project file org\project file org\obj\Debug\project file org.pdb
+C:\Users\icall\Desktop\project file org2\project file org\bin\Debug\project file org.exe.config
+C:\Users\icall\Desktop\project file org2\project file org\obj\Debug\project file org.exe
+C:\Users\icall\Desktop\project file org2\project file org\obj\Debug\project file org.pdb
+C:\Users\icall\Desktop\project file org2\project file org\bin\Debug\project file org.exe
+C:\Users\icall\Desktop\project file org2\project file org\bin\Debug\project file org.pdb
+C:\Users\icall\Desktop\project file org2\project file org\bin\Debug\mscorlib.dll
+C:\Users\icall\Desktop\project file org2\project file org\bin\Debug\normidna.nlp
+C:\Users\icall\Desktop\project file org2\project file org\bin\Debug\normnfc.nlp
+C:\Users\icall\Desktop\project file org2\project file org\bin\Debug\normnfd.nlp
+C:\Users\icall\Desktop\project file org2\project file org\bin\Debug\normnfkc.nlp
+C:\Users\icall\Desktop\project file org2\project file org\bin\Debug\normnfkd.nlp
+C:\Users\icall\Desktop\project file org2\project file org\obj\Debug\project file org.csprojResolveAssemblyReference.cache
+C:\Users\icall\Desktop\project file org2\project file org\obj\Debug\project_file_org.Form1.resources
+C:\Users\icall\Desktop\project file org2\project file org\obj\Debug\project_file_org.Form2.resources
+C:\Users\icall\Desktop\project file org2\project file org\obj\Debug\project_file_org.Properties.Resources.resources
+C:\Users\icall\Desktop\project file org2\project file org\obj\Debug\project file org.csproj.GenerateResource.Cache

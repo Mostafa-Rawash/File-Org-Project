@@ -1,0 +1,4 @@
+The player name is:Mohame
+Player positon: P
+Player team: Alahl
+His nationality: Egyptia
